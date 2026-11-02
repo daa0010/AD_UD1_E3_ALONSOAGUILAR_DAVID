@@ -1,0 +1,13 @@
+00123;Muñoz Galianez, Oskar;2026-10-19;1234,500
+00124;Ruiz Pérez, Ana;2026-10-19;987,000
+00130;López Sánchez, Mario;2026-10-19;1234.5
+00135;García Ruiz, Lucía;2026-10-19;450,250
+
+00188;Sánchez Molina, Lucía;2026-10-19;
+00190;Torres Vega, Iván;2026-10-19;21,000
+00190;Torres Vega, Iván;2026-10-19;22,000
+00195;;2026-10-19;33,750
+00200;Domínguez Pardo, Elena;2026-10-19;9999,900
+00210;Herrera Cruz, Pablo;2026-10-19;50,000
+00215;Fernández Ruiz, Natalia;2026-10-19;75,125
+00220;Iglesias Mora, Rubén;2026-10-19;0100,000
